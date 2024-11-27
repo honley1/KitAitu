@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KitAitu</string>
+    <string name="Login">Вход</string>
+    <string name="Continue">Продолжить</string>
+    <string name="_7">+7</string>
+    <string name="EnterCode">Введите код</string>
+    <string name="Auth">Войти</string>
+    <string name="changeNumber">Изменить номер</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="avatar">avatar</string>
+    <string name="name">ФИО</string>
+    <string name="group">Группа</string>
+    <string name="profile">Профиль</string>
+    <string name="share">Поделится</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="middleName">Отчество</string>
+    <string name="dob">Дата рождения</string>
+    <string name="close">Закрыть</string>
+    <string name="iin">ИИН</string>
+    <string name="iinInfo">ИИН</string>
+    <string name="main">Главная</string>
+    <string name="news">Новости</string>
+    <string name="appeal">Обращение</string>
+    <string name="sex">Пол</string>
+    <string name="announcement">Объявления</string>
+    <string name="todo">TODO</string>
+    <string name="appeal_content">Уважаемая администрация, я хотел бы выразить своё недовольство по поводу сложившейся ситуации.</string>
+    <string name="appeal_text">Напишите свой вопрос, мы обязательно на него ответим!</string>
+    <string name="send">Отправить</string>
+    <string name="studentcard">Студенческий билет</string>
+</resources>
